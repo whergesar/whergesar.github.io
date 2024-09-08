@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whergesar.github.io/sitemap.html.gz
+Sitemap: https://whergesar.github.io/app/sitemap.html.gz
+Sitemap: https://whergesar.github.io/assets/sitemap.html.gz
+Sitemap: https://whergesar.github.io/css/sitemap.html.gz
+Sitemap: https://whergesar.github.io/includes/sitemap.html.gz
+Sitemap: https://whergesar.github.io/item/sitemap.html.gz
+Sitemap: https://whergesar.github.io/src/sitemap.html.gz
